@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loopvar.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-27T07:00:08.335Z</updated>
+    <updated>2020-06-28T04:17:49.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loopvar.github.io"/>
     <link rel="self" href="https://loopvar.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://loopvar.github.io/images/avatar.png</logo>
     <icon>https://loopvar.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[mp4]]></title>
+        <id>https://loopvar.github.io/post/mp4/</id>
+        <link href="https://loopvar.github.io/post/mp4/">
+        </link>
+        <updated>2020-06-28T04:03:11.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<h3 id="1-在线">1. 在线</h3>
+<p><a href="https://www.crx4chrome.com/crx/36007/">Crx4Chrome</a>，</p>
+<h3 id="2-下载">2. 下载</h3>
+<p><a href="https://www.dy2018.com/">dytt89电影天堂</a>'无水印'，<a href="https://www.loldytt.com/">LOL电影天堂</a><br>
+<a href="https://github.com/Hunlongyu/ZY-Player/releases">ZY-Player</a>，<a href="https://www.jianpian6.com/">荐片播放器</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://loopvar.github.io/post/hello-gridea/</id>
