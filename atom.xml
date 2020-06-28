@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loopvar.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-28T13:58:35.204Z</updated>
+    <updated>2020-06-28T23:21:44.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loopvar.github.io"/>
     <link rel="self" href="https://loopvar.github.io/atom.xml"/>
@@ -10,21 +10,6 @@
     <logo>https://loopvar.github.io/images/avatar.png</logo>
     <icon>https://loopvar.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[mp3]]></title>
-        <id>https://loopvar.github.io/post/mp3/</id>
-        <link href="https://loopvar.github.io/post/mp3/">
-        </link>
-        <updated>2020-06-28T04:26:19.000Z</updated>
-        <content type="html"><![CDATA[<hr>
-<h3 id="1-在线">1. 在线</h3>
-<p><a href="https://listen1.github.io/listen1/">Listen1</a>，<a href="https://github.com/AnyListen/YaVipCore/">鱼声音乐</a>，</p>
-<h3 id="2-下载播放">2. 下载播放</h3>
-<p><a href="https://github.com/lyswhut/lx-music-desktop">落雪音乐助手</a><code>Windows</code> <code>Mac</code></p>
-<h3 id="2-应用">2. 应用</h3>
-<p><a href="https://github.com/lyswhut/lx-music-desktop">落雪音乐助手</a><code>Windows</code> <code>Mac</code></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[mp4]]></title>
         <id>https://loopvar.github.io/post/mp4/</id>
