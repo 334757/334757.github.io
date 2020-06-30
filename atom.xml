@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loopvar.github.io</id>
     <title>...</title>
-    <updated>2020-06-30T13:07:07.253Z</updated>
+    <updated>2020-06-30T13:11:54.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loopvar.github.io"/>
     <link rel="self" href="https://loopvar.github.io/atom.xml"/>
@@ -19,7 +19,7 @@
 <h3 id="1百度">1.百度</h3>
 <p><a href="https://www.dogedoge.com/">多吉搜索</a>，<a href="https://mijisou.com/">秘迹搜索</a><br>
 <a href="https://www.aolsearch.com/">AOL</a>，<a href="https://www.oscobo.com/">Oscobo</a></p>
-<p>##设置搜索引擎</p>
+<h2 id="设置搜索引擎">设置搜索引擎</h2>
 <blockquote>
 <p>1.在浏览器地址栏输入<code>chrome://settings/searchEngines</code><br>
 2.输入对应搜索引擎的搜索字符串:<br>
