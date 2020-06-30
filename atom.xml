@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loopvar.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-28T23:21:44.844Z</updated>
+    <updated>2020-06-30T00:55:08.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loopvar.github.io"/>
     <link rel="self" href="https://loopvar.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://loopvar.github.io/images/avatar.png</logo>
     <icon>https://loopvar.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[copy]]></title>
+        <id>https://loopvar.github.io/post/copy/</id>
+        <link href="https://loopvar.github.io/post/copy/">
+        </link>
+        <updated>2020-06-30T00:54:46.000Z</updated>
+        <content type="html"><![CDATA[<p>1、网盘<br>
+<a href="https://send.firefox.com/">FireFox Send</a><code>下载即删除</code>，<a href="https://www.wenshushu.cn/">文叔叔</a>，<a href="https://cowtransfer.com/">奶牛快传</a>，</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mp4]]></title>
         <id>https://loopvar.github.io/post/mp4/</id>
